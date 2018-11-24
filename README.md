@@ -1,1 +1,1 @@
-# Electronic-visual-acuity-chart-
+# Electronic-visual-acuity-chart
