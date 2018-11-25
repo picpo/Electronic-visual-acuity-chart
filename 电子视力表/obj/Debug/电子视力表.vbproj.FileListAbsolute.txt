@@ -9,3 +9,14 @@ C:\Users\Administrator\Desktop\项目\电子视力表\obj\Debug\电子视力表.
 C:\Users\Administrator\Desktop\项目\电子视力表\obj\Debug\电子视力表.exe
 C:\Users\Administrator\Desktop\项目\电子视力表\obj\Debug\电子视力表.xml
 C:\Users\Administrator\Desktop\项目\电子视力表\obj\Debug\电子视力表.pdb
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\bin\Debug\电子视力表.exe
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\bin\Debug\电子视力表.pdb
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\bin\Debug\电子视力表.xml
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.Form1.resources
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.Resources.resources
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.exe
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.xml
+C:\Users\Administrator\Desktop\Electronic-visual-acuity-chart\电子视力表\obj\Debug\电子视力表.pdb

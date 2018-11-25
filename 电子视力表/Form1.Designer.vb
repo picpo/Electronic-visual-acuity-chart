@@ -81,10 +81,10 @@ Partial Class Form1
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.电子视力表.My.Resources.Resources.E
-        Me.PictureBox1.Location = New System.Drawing.Point(281, 12)
+        Me.PictureBox1.Location = New System.Drawing.Point(409, 81)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(200, 200)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 1
         Me.PictureBox1.TabStop = False
         '
