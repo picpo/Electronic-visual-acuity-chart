@@ -22,6 +22,61 @@
   重写当前线程的 CurrentUICulture 属性。
 </summary>
 </member>
+<member name="P:电子视力表.My.Resources.Resources._1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._1_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._2">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._2_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._3">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._3_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._4">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._4_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._5">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._5_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:电子视力表.My.Resources.Resources._6_gaitubao_com_rotate__90">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
 <member name="P:电子视力表.My.Resources.Resources.E">
 <summary>
   查找 System.Drawing.Bitmap 类型的本地化资源。
