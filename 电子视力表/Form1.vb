@@ -39,7 +39,7 @@
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         Label5.Text = ""
         Randomize()
-        rmb = Int(6 * Rnd() + 1)
+        rmb = Int(10 * Rnd() + 1)
         If rmb = 1 Then
             PictureBox2.Image = My.Resources._1_gaitubao_com_rotate__90
         ElseIf rmb = 2 Then
@@ -52,6 +52,14 @@
             PictureBox2.Image = My.Resources._5_gaitubao_com_rotate__90
         ElseIf rmb = 6 Then
             PictureBox2.Image = My.Resources._6_gaitubao_com_rotate__90
+        ElseIf rmb = 7 Then
+            PictureBox2.Image = My.Resources._7
+        ElseIf rmb = 8 Then
+            PictureBox2.Image = My.Resources._8
+        ElseIf rmb = 9 Then
+            PictureBox2.Image = My.Resources._9
+        ElseIf rmb = 10 Then
+            PictureBox2.Image = My.Resources._10
         End If
     End Sub
 
@@ -68,6 +76,15 @@
             Label5.Text = "马   兔   马   不能读"
         ElseIf rmb = 6 Then
             Label5.Text = "4234   1327   部分数字  不能读"
+        ElseIf rmb = 7 Then
+            Label5.Text = "HELP   不能读   多不能读  不能读"
+        ElseIf rmb = 8 Then
+            Label5.Text = "摩托车   不能读   多不能读  不能读"
+        ElseIf rmb = 9 Then
+            Label5.Text = "飞机   不能读   多不能读  不能读"
+        ElseIf rmb = 10 Then
+            Label5.Text = "五角星和蝴蝶 五角星多可读；蝴蝶多不可读
+正常  不能读"
         End If
     End Sub
 End Class

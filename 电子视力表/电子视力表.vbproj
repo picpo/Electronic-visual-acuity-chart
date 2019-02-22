@@ -138,6 +138,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon-20181125031921806.ico" />
+    <None Include="Resources\10.jpg" />
+    <None Include="Resources\9.jpg" />
+    <None Include="Resources\8.jpg" />
+    <None Include="Resources\7.jpg" />
     <None Include="Resources\6_gaitubao_com_rotate_-90.jpg" />
     <None Include="Resources\5_gaitubao_com_rotate_-90.jpg" />
     <None Include="Resources\4_gaitubao_com_rotate_-90.jpg" />
